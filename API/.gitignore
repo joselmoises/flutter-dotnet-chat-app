@@ -1,0 +1,22 @@
+## .NET WebAPI .gitignore ##
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Others
+.vs/
+
+# Arquivos de configuração com secrets
+appsettings.Development.json
+appsettings.json
+secrets.json
